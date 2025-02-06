@@ -33,8 +33,8 @@ We also process this information in order to automatically detect violations of 
 ## Contact
 For any concerns about this policy or the Bot's operation, please contact the PowerForge team via the Official Discord Server (https://discord.gg/cWR4AP3j5B)
 
-Any of this data, besides your Discord user ID (which will always be kept in order to be able to "blacklist" users), can be requested to be removed through the Official Discord Server of PowerForge RPG (https://discord.gg/cWR4AP3j5B).
+Any of this data, besides your Discord user ID (which will always be kept in order to be able to "blacklist" users), can be requested for removal through the Official Discord Server of PowerForge RPG (https://discord.gg/cWR4AP3j5B).
 By "removing", we mean that, your data will be removed from the Services's database and logs. We however can not guarantee this data is removed from third party's databases (such as Discord or database hosting platforms for example).
-If you also would like to have this information removed from database backups, please include it in your request. It may take up to 7 days for your information to be removed.
+If you also would like to have this information removed from database and log backups, please include it in your request. It may take up to 7 days for your information to be removed.
 
 This Privacy Policy may be updated. If changes are significant, we will, as required by law, notify you through the Bot and/or the Official Discord Server of PowerForge RPG.

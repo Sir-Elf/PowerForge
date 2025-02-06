@@ -7,9 +7,9 @@ By using the Service, you agree to these Terms.
 
 - You will violate neither the Discord Terms of Service (https://discord.com/terms), the Discord Guidelines (https://discord.com/guidelines) nor these Terms while using the Service.
 - You will not use the Service for or in the context of any malicious or illegal behavior or activities.
-- You will not benefit or abuse any exploits or bugs found in the Bot or related Services.
+- You will not benefit from or abuse any exploits or bugs found in the Bot or related Services.
 - You will not attempt to interrupt or slow the operation of the Service.
-- You will not trade or sell in-game currencies for anything outside of the Service.
+- You will not trade or sell in-game currencies for any physical or virtual item outside of the Service.
 - You will not use self-bots, macros, scripts, or any other form of automation to interact with the Service.
 - You will not use alternative accounts to abuse the Service's mechanics or features or gain an unfair advantage on other users.
 - Your use of the Service is purely for entertainment. We are not responsible for any damages caused by your use of the Service.

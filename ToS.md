@@ -1,6 +1,6 @@
 # Terms of Service
 The PowerForge team ("us", "we" or "our") operates and owns PowerForge RPG and it's related websites and products (the "Service" or the "Bot").
-This Service if povided to you (“you” or “your") and any other individual or entity that may use our Service ("users").
+This Service is povided to you (“you” or “your") and any other individual or entity that may use our Service ("users").
 Please read these Terms of Service (the "Terms") before using the Service.
 
 By using the Service, you agree to these Terms.

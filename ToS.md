@@ -11,7 +11,7 @@ By using the Service, you agree to these Terms.
 - You will not attempt to interrupt or slow the operation of the Service.
 - You will not trade or sell in-game currencies for any physical or virtual item outside of the Service.
 - You will not use self-bots, macros, scripts, or any other form of automation to interact with the Service.
-- You will not use alternative accounts to abuse the Service's mechanics or features or gain an unfair advantage on other users.
+- You will not abuse game mechanics to gain an unfair advantage on other users (by using mass alt-accounts for example).
 - Your use of the Service is purely for entertainment. We are not responsible for any damages caused by your use of the Service.
 
 We reserve the right to permanently or temporarily revoke your access to the Service at any time and for any reason, with or without prior notice and with or without any refunds to donations or purchases made to the Service.

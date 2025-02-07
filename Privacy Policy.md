@@ -14,7 +14,6 @@ We collect certain information from our users. This includes information you pro
 - All interactions you make with the Bot. This includes but is not limited to:
   - Trading operations made with other users
   - Timestamps to certain interactions you may have made
-  - Interactions made with other users while you use the Service
 
 ### Information relative to our Service
 This includes and is not limited to:
